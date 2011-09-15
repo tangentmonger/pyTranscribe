@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=pyTranscribe2
+IAge=2
+Name=Transcription plugin
+Description=
+Authors=RY
+Copyright=RY
+Website=
