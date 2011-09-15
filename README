@@ -1,0 +1,11 @@
+pyTranscribe
+------------
+
+A gedit plugin to assist with transcribing audio or video. If VLC can play it, you can work with it.
+
+Created to allow transcription of two videos simultaneously (by creating a Matroska file).
+
+Requires:
+   gedit
+   vlc
+   other stuff
